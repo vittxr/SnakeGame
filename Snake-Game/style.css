@@ -1,0 +1,29 @@
+body { 
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: rgba(0, 128, 0, 0.24);
+    color: rgba(37, 156, 37, 0.767);
+}
+
+#score {
+    color: black;
+    font-size: 30px
+}
+
+p {
+    font-size: 30px;
+    color: black;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.placar {
+    display: flex;
+    margin: 3px
+}
