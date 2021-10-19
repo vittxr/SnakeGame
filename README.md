@@ -8,8 +8,11 @@
   <img width="500" src="assets/snakeGame.gif">
 </p>
 
-![GitHub top language](https://img.shields.io/github/languages/top/vitor-99/projeto-SnakeGame) 
-![GitHub language count](https://img.shields.io/github/languages/count/vitor-99/projeto-SnakeGame)
+
+<div align="center">
+   <img src="https://img.shields.io/github/languages/top/vitor-99/projeto-SnakeGame">
+   <img src="https://img.shields.io/github/languages/count/vitor-99/projeto-SnakeGame">
+</div>
 
 ### 🛠 Tecnologias
 
